@@ -1,8 +1,4 @@
-
-
-
-
-
+由于数据过大，暂时未上传。
 
 #data preprocess
 python preprocess_mix.py --choice 0
